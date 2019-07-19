@@ -8,7 +8,11 @@ There is used code from other places under MIT License, and card images free for
 Still to do:
 
 Oicho-Kabu
+
 Royal Flush Checker GUI
+
 Chess/Checkers for advanced students?
+
 Texas Hold 'em for advanced students?
+
 (both the above iff we do separate the advanced students from the rest)
