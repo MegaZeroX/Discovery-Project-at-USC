@@ -1,5 +1,5 @@
-'''Example student code. They need to calculate the point value of a pokerhand,
-given as a list of poker cards, listed as suit, then number (ie: eight of spades is S8)'''
+'''Example student code. They need to calculate the point value of a black jack hand,
+given as a list of playing cards, listed as suit, then number (ie: eight of spades is S8)'''
 def calculatePoints(hand):
     sum = 0
     numAces = 0
