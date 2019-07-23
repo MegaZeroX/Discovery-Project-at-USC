@@ -1,5 +1,4 @@
-'''Example student code. They need to calculate to print whether the dealer or
-player wins the hand'''
+#create a function called "whoWins" which takes in 3 player cards and 3 dealer card values, and decide who wins the match
 def whoWins(playerCardOne, playerCardTwo, playerCardThree, dealerCardOne, dealerCardTwo, dealerCardThree):
     playerSum = playerCardOne + playerCardTwo + playerCardThree
     dealerSum = dealerCardOne + dealerCardTwo + dealerCardThree
